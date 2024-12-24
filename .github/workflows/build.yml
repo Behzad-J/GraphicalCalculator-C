@@ -31,7 +31,7 @@ jobs:
       run: make cmain
 
     - name: run test script
-      run: ./test_script.sh > test_results.txt
+      run: chmod 755 test_script.sh; ./test_script.sh > test_results.txt
 
     - name: gcov
       run: gcov -o . cmain-main.gcda cmain-evaluateWithParentheses.gcda cmain-bedmas.gcda cmain-arithmeticOperations.gcda
