@@ -40,10 +40,13 @@ This calculator is a command-line utility, which requires access to the various 
 ## How to Use
 
 Launch the app in the command-line to open the calculator interface.
-Use the buttons on the GUI to perform operations of your choosing. a) Enter numbers using the digit buttons (0-9) b) Select an operation (+, -, , /) to apply to the numbers. c) Use parentheses to prioritize parts of the calculation.
+Use the buttons on the GUI to perform operations of your choosing. 
+a) Enter numbers using the digit buttons (0-9) 
+b) Select an operation (+, -, , /) to apply to the numbers. 
+c) Use parentheses to prioritize parts of the calculation.
 Click the equals button when you would like to perform the calculation.
 Select the clear button, to clear all input numbers and operations.
-Press the help button to view the guide in the terminal.
+Press the help button to view the guide in terminal.
 
 ## Usage Examples
 
