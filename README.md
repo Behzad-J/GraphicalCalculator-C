@@ -32,10 +32,10 @@ Includes a help button to guide users on how to use the calculator.
 
 This calculator is a command-line utility, which requires access to the various file that were used to develop the program. The following steps can guide you on how to set up the calculator for your own usage.
 
-Clone the repository: git clone https://github.com/Behzad-J/GraphicalCalculator-C
-NOTE: To use the GUI you will need to install the required libraries, which involves downloading and setting up the GTK toolkit sudo apt install libgtk-4-dev
-Compile the program using the Makefile: make main-calculator
-Run the application: ./calculator
+1. Clone the repository: git clone https://github.com/Behzad-J/GraphicalCalculator-C
+2. To use the GUI you will need to install the required libraries, which involves downloading and setting up the GTK toolkit sudo apt install libgtk-4-dev
+3. Compile the program using the Makefile: make main-calculator
+4. Run the application: ./calculator
 
 ## How to Use
 
