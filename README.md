@@ -1,12 +1,12 @@
-#GTK Graphical Calculator
+# GTK Graphical Calculator
 
-##Overview
+## Overview
 
 Project Description The Calculator Method is a simple, user-friendly application that features a graphical user interface (GUI) to allow users to interact with the various operations it offers. It is designed for those who require a simple and accessible tool to quickly perform basic calculations. Users are able to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, and are able to use a set of parentheses to offer control over which order the operations are performed. Designed with simplicity in mind, the app offers a simple GUI which provides a straightforward and efficient way to perform calculations, without any complex features.
 
 This project was developed as a collaborative effort by a team, leveraging the use of Git and GitHub for version control. The project highlights teamwork and collaboration in a shared repository, allowing for modular and scalable development.
 
-##Team Collaboration and Learning Experience
+## Team Collaboration and Learning Experience
 
 This project was developed as part of a team-based assignment, using a shared GitHub repository to manage the codebase collaboratively. This process provided valuable insights into:
 	1. Version Control:
@@ -20,7 +20,7 @@ This project was developed as part of a team-based assignment, using a shared Gi
 
 This experience enhanced my understanding of Git workflows, collaborative development practices, and the importance of clear communication and documentation.
 
-##Features
+## Features
 
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
 Includes parentheses to allow the user to order their operations in a specific way.
@@ -28,7 +28,7 @@ Includes a negative toggle to allow input for negative numbers.
 A user-friendly GUI that includes buttons 0-9, arithmetic operations, negative toggle, parentheses, clear, and equals.
 Includes a help button to guide users on how to use the calculator.
 
-##Getting Started
+## Getting Started
 
 This calculator is a command-line utility, which requires access to the various file that were used to develop the program. The following steps can guide you on how to set up the calculator for your own usage.
 
@@ -37,7 +37,7 @@ NOTE: To use the GUI you will need to install the required libraries, which invo
 Compile the program using the Makefile: make main-calculator
 Run the application: ./calculator
 
-##How to Use
+## How to Use
 
 Launch the app in the command-line to open the calculator interface.
 Use the buttons on the GUI to perform operations of your choosing. a) Enter numbers using the digit buttons (0-9) b) Select an operation (+, -, , /) to apply to the numbers. c) Use parentheses to prioritize parts of the calculation.
@@ -45,7 +45,7 @@ Click the equals button when you would like to perform the calculation.
 Select the clear button, to clear all input numbers and operations.
 Press the help button to view the guide in the terminal.
 
-##Usage Examples
+## Usage Examples
 
 Basic Arithmetic: Press 14 / 2 --> Click = --> Result: 7 Press 17 - 5 + 9 --> Click = --> Result: 21
 Using Parentheses: Press 2 * (4 + 1) --> Click = --> Result: 10 Press 8 / (6 - 2) --> Click = --> Result: 2
